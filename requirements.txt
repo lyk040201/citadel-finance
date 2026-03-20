@@ -1,6 +1,8 @@
 streamlit
-requests
-pdfplumber
+pandas
+numpy
 matplotlib
+pdfplumber
+requests
 zhipuai
-tavily-python
+sniffio
