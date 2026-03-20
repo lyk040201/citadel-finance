@@ -1,4 +1,3 @@
-# trigger rebuild 2026
 streamlit
 pandas
 numpy
@@ -7,3 +6,4 @@ pdfplumber
 requests
 zhipuai
 sniffio
+tavily-python
