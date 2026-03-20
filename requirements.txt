@@ -1,0 +1,6 @@
+streamlit
+requests
+pdfplumber
+matplotlib
+zhipuai
+tavily-python
